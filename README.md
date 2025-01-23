@@ -1,7 +1,7 @@
 # Seafess Github
 Seafess is a versatile platform for watercraft rentals, sales, charters, dock rentals, and more.
 
-[Seafess Website](welcome.seafess.com)
+[Seafess Website](https://welcome.seafess.com)
 
 [Download Seafess App on iOS](https://apps.apple.com/us/app/seafess/id6645736362)
 
